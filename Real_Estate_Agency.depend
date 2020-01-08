@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1578476482 source:d:\poosem1\proiectul3\main.cpp
+	<iostream>
+	<vector>
+	<typeinfo>
+	<set>
+	<iterator>
+	<cstring>
+	<stdio.h>
+	<windows.h>
+
